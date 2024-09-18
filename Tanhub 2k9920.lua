@@ -95,11 +95,11 @@ function AntiBan()
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 print("made by minh & dakii")
-    print("mbm x hub")
-    print("join my discord server : https://dsc.gg/m1m")
+    print("tan x hub")
+    print("join my discord server : https://discord.gg/qt2VVn9u")
     print("boing boing")
     print("ty for using - have fun")
-    print("sk (on discord : @player.81 & @dakii_90790)")
+    print("sk (on discord :@Tan2k9920)")
     print("wait ,.,")
     print("LCTSV - .,.")  
 
@@ -2500,7 +2500,7 @@ end)
  end
  Tabs.Fluent:AddParagraph({
     Title = "u can try new theme",
-    Content = "Mbm-Hub Theme"
+    Content = "Tan-Hub Theme"
 })
     local ToggleTweenMirageIsland = Tabs.Seaev:AddToggle("ToggleTweenMirageIsland", {Title = "Tp To Mirage Island", Description = "bay đến đảo bí ẩn", Default = false })
     ToggleTweenMirageIsland:OnChanged(function(Value)
@@ -4787,8 +4787,8 @@ if Third_Sea then
     local Mastery = Tabs.Hop:AddSection("can join mirage / full moon server\n with code in my discord server")
     end
 --]]-- fluent
-InterfaceManager:SetFolder("MBM_HUB")
-SaveManager:SetFolder("MBM_HUB")
+InterfaceManager:SetFolder("Tan_HUB")
+SaveManager:SetFolder("Tan_HUB")
 SaveManager:SetLibrary(Fluent)
 InterfaceManager:SetLibrary(Fluent)
 SaveManager:IgnoreThemeSettings()
@@ -4799,7 +4799,7 @@ Window:SelectTab(1)
 SaveManager:LoadAutoloadConfig()
 --[[
     end
-    delfolder("MBM_HUB")
+    delfolder("Tan_HUB")
 --]]
 if Third_Sea then
 
